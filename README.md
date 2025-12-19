@@ -1,5 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
-
+## NAME:PAVITHRA P
+## REF NO:25014284
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -38,6 +39,11 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 
 **Norton’s equivalent circuit**
+<img width="717" height="1280" alt="image" src="https://github.com/user-attachments/assets/c795abb9-de9c-42d8-aac9-603cd4f4c858" />
+<img width="794" height="1280" alt="image" src="https://github.com/user-attachments/assets/c0dd9b82-ecdd-48b2-b068-314d52257622" />
+<img width="799" height="1280" alt="image" src="https://github.com/user-attachments/assets/71743705-d195-4944-b0a2-6cf542a2c29b" />
+<img width="803" height="1280" alt="image" src="https://github.com/user-attachments/assets/dc84c188-ddeb-445e-8dcb-42ae642c32a7" />
+
 
 
 **PROCEDURE:**
